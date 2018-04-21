@@ -1,4 +1,4 @@
-# Enkel
+# lighdm-webikit-theme-Enkel
 Lightdm Webkit2 greeter theme I edited
 Derived from:
 - https://github.com/nomad23541/lightdm-webkit-simply-theme.git
