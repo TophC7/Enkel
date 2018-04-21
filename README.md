@@ -4,7 +4,7 @@ Derived from:
 - https://github.com/nomad23541/lightdm-webkit-simply-theme.git
 
 # Screenshot
-![alt text]()
+![alt text](https://github.com/TophC7/Enkel/blob/master/screenshot.png?raw=true)
 
 # How to Install:
   1. Install LightDM `sudo apt-get install lighdm`
@@ -17,4 +17,4 @@ Derived from:
   7. And done you should have your theme ready
 
 # #
-To change wallpaper chage `the background.jpg` file
+To change wallpaper chage the `background.jpg` file
